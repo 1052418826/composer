@@ -1,0 +1,18 @@
+{
+    "name": "ymm/hello",
+    "description": "suibianxie",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ymm",
+            "email": "1052418826@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
